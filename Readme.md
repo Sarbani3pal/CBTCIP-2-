@@ -1,7 +1,7 @@
 My Portfolio Website 
 Welcome to my portfolio website! This website showcases my skills, experience, and best work as a web developer.
 
-About the Project
+About the Project 
 This is my portfolio website  showcases my web development skills,built using HTML, CSS, and JavaScript consists of a brief description about me, my skills, and past experience. It also include sections  showcasing my projects, case studies, and notable achievements. It includes a Snake and Ladder game where the player needs to roll the dice and move the token accordingly to climb up the ladder and avoid the snake bites.
 
 Website Features
@@ -13,7 +13,7 @@ Interactive and dynamic elements such as hover effects and animations.
 Installation
 To install the project, simply clone the repository:
 
-git clone https://github.com/myusername/my-portfolio-website.git
+git clone https://github.com/Sarbani3pal/CBTCIP-2.git
 
 Usage
 Once you have cloned the repository, you can open the index.html file in your web browser to view the portfolio website. The Snake and Ladder game is included on the website and can be played by clicking on the game link.
